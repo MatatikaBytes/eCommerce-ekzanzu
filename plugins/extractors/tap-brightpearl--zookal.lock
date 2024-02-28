@@ -1,0 +1,17 @@
+{
+  "plugin_type": "extractors",
+  "name": "tap-brightpearl",
+  "namespace": "tap_brightpearl",
+  "variant": "zookal",
+  "label": "BrightPearl",
+  "docs": "https://www.matatika.com/data-details/tap-brightpearl/",
+  "repo": "https://github.com/Zookal/tap-brightpearl",
+  "pip_url": "git+https://github.com/Zookal/tap-brightpearl.git",
+  "description": "BrightPearl is a cloud-based business management software for retailers and wholesalers.\n\nBrightPearl provides a comprehensive solution for managing various aspects of a retail or wholesale business, including inventory management, order processing, accounting, CRM, and reporting. It integrates with various sales channels, such as Amazon, eBay, and Shopify, to provide a centralized platform for managing sales and customer data. The software also offers features for managing purchasing, supplier relationships, and fulfillment, as well as tools for analyzing sales performance and forecasting demand. Overall, BrightPearl aims to streamline business operations and improve efficiency for retailers and wholesalers.",
+  "logo_url": "https://app.matatika.com/assets/logos/extractors/brightpearl.png",
+  "capabilities": [
+    "catalog",
+    "discover",
+    "state"
+  ]
+}
